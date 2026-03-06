@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notes/Climbing.md",
+                "file": "Notes/DINO.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Climbing"
+              "title": "DINO"
             }
           }
         ]
@@ -171,8 +171,8 @@
             "state": {
               "type": "calendar",
               "state": {},
-              "icon": "calendar-with-checkmark",
-              "title": "Calendar"
+              "icon": "lucide-ghost",
+              "title": "calendar"
             }
           }
         ]
@@ -195,8 +195,10 @@
       "github-sync:Sync with Remote": false
     }
   },
-  "active": "4b84339ee7d76a4d",
+  "active": "52b3af195238e95a",
   "lastOpenFiles": [
+    "imgs/Pasted image 20260306113644.png",
+    "Purpose of this site.md",
     "index.md",
     "Notes/Climbing.md",
     "Climbing.md",
@@ -204,7 +206,6 @@
     "Notes/Discovering What and Where Visual Pathways.md",
     "Notes/DINO.md",
     "Templates/Basic.md",
-    "Purpose of this site.md",
     "Notes/index.md",
     "ucr.edu.md",
     "Notes",
