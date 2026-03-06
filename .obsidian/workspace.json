@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notes/index.md",
+                "file": "index.md",
                 "mode": "source",
                 "source": false
               },
@@ -191,21 +191,23 @@
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
       "bases:Create new base": false,
-      "obsidian-kanban:Create new board": false
+      "obsidian-kanban:Create new board": false,
+      "github-sync:Sync with Remote": false
     }
   },
-  "active": "52b3af195238e95a",
+  "active": "4b84339ee7d76a4d",
   "lastOpenFiles": [
-    "index.md",
     "Notes/index.md",
+    "index.md",
+    "Purpose of this site.md",
+    "Notes/Discovering What and Where Visual Pathways.md",
+    "ucr.edu.md",
     "Notes",
     "Notes/DINO.md",
-    "Notes/Discovering What and Where Visual Pathways.md",
     "Templates/Paper.md",
     "Templates/Basic.md",
     "imgs",
     "imgs/Screenshot 2026-03-03 at 1.43.10 PM.png",
-    "Starting.md",
     "Templates",
     "Workflow.md",
     "Untitled.base"

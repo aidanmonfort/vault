@@ -1,1 +1,0 @@
-I am really bad about actually taking notes, and keeping things organized. I have tried to use Obsidian before, but I did not want to pay for the obsidian sync, but I may try to actually create a [[LiveSync]] server to make my obsidian experience a little bit better. 

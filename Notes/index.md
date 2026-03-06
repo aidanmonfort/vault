@@ -1,0 +1,1 @@
+This is where all my notes live, some are on various papers I think are interesting, some are from talks I have gone to, some are super random topics. They are all mostly meant for me, but I hope they might be helpful for someone in some weird way. 
