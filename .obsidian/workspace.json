@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notes/Climbing.md",
+                "file": "Notes/DINO.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Climbing"
+              "title": "DINO"
             }
           }
         ]
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notes/Climbing.md",
+                "file": "Notes/DINO.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Climbing"
+              "title": "Backlinks for DINO"
             }
           },
           {
@@ -113,12 +113,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Notes/Climbing.md",
+                "file": "Notes/DINO.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Climbing"
+              "title": "Outgoing links from DINO"
             }
           },
           {
@@ -195,16 +195,16 @@
       "github-sync:Sync with Remote": false
     }
   },
-  "active": "4b84339ee7d76a4d",
+  "active": "52b3af195238e95a",
   "lastOpenFiles": [
-    "index.md",
+    "Purpose of this site.md",
     "Notes/Climbing.md",
+    "index.md",
     "Climbing.md",
     "Notes/Video Games.md",
     "Notes/Discovering What and Where Visual Pathways.md",
     "Notes/DINO.md",
     "Templates/Basic.md",
-    "Purpose of this site.md",
     "Notes/index.md",
     "ucr.edu.md",
     "Notes",
