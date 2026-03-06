@@ -1,6 +1,8 @@
 ---
 created: 2025-03-06T09:36
 updated: 2025-03-13T09:07
+tags:
+  - "#ml/papers"
 ---
 ---
 [Link](https://arxiv.org/pdf/2104.14294)
