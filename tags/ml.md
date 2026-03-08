@@ -1,1 +1,1 @@
-This is where all my notes under machine learning exist under. Since this is a really broad topic, there are a decent amount of subtags that are more specific. 
+This is where all my notes under machine learning exist under. Since this is a really broad topic, there are a decent amount of subtags to give a little more context for any given note.

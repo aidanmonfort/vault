@@ -1,20 +1,32 @@
 {
   "recentFiles": [
     {
-      "basename": "ml",
-      "path": "tags/ml.md"
-    },
-    {
       "basename": "Looped LLMs",
       "path": "Notes/Looped LLMs.md"
     },
     {
-      "basename": "index",
-      "path": "Notes/index.md"
+      "basename": "Videos",
+      "path": "Templates/Videos.md"
     },
     {
       "basename": "Discovering What and Where Visual Pathways",
       "path": "Notes/Discovering What and Where Visual Pathways.md"
+    },
+    {
+      "basename": "index",
+      "path": "index.md"
+    },
+    {
+      "basename": "ml",
+      "path": "tags/ml.md"
+    },
+    {
+      "basename": "Purpose of this site",
+      "path": "Purpose of this site.md"
+    },
+    {
+      "basename": "index",
+      "path": "Notes/index.md"
     },
     {
       "basename": "DINO",
@@ -31,14 +43,6 @@
     {
       "basename": "Videos",
       "path": "Videos.base"
-    },
-    {
-      "basename": "Videos",
-      "path": "Templates/Videos.md"
-    },
-    {
-      "basename": "index",
-      "path": "index.md"
     },
     {
       "basename": "Paper",
