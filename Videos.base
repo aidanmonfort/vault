@@ -5,8 +5,5 @@ views:
       and:
         - file.tags.contains("video")
         - file.folder != "Templates"
-    order:
-      - file.name
     image: note.featured_image
     imageFit: contain
-    imageAspectRatio: 1.25

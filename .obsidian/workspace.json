@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "5d2880c4824a836c",
+        "id": "016a90e948f8f56e",
         "type": "tabs",
         "children": [
           {
-            "id": "d15a2d4964b883cd",
+            "id": "bb230ba306d81d86",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notes/Looped LLMs.md",
+                "file": "Youtube Videos.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Looped LLMs"
+              "title": "Youtube Videos"
             }
           }
         ]
@@ -104,7 +104,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notes/Looped LLMs.md",
+                "file": "Youtube Videos.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +114,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Looped LLMs"
+              "title": "Backlinks for Youtube Videos"
             }
           },
           {
@@ -209,7 +209,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 202.5
+    "width": 202.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -225,10 +226,13 @@
       "juggl:Juggl global graph": false
     }
   },
-  "active": "d15a2d4964b883cd",
+  "active": "bb230ba306d81d86",
   "lastOpenFiles": [
-    "Templates/Videos.md",
+    "Notes/Untitled.base",
+    "Videos.base",
     "Notes/Looped LLMs.md",
+    "Youtube Videos.md",
+    "Templates/Videos.md",
     "Notes/Discovering What and Where Visual Pathways.md",
     "index.md",
     "tags/ml.md",
@@ -237,13 +241,11 @@
     "Notes/DINO.md",
     "Notes/Climbing.md",
     "Notes/Attention.md",
-    "Videos.base",
     "imgs/resized/ba3589add57b55c453909d4c973be858_86cf658e.webp",
     "imgs/resized",
     "imgs/youtube/pDsTcrRVNc0.webp",
     "imgs/youtube",
     "Templates/Paper.md",
-    "Untitled.md",
     "Notes/Multihead Attention.md",
     "Notes/ViT.md",
     "tags",

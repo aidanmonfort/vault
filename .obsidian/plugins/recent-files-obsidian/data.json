@@ -1,6 +1,14 @@
 {
   "recentFiles": [
     {
+      "basename": "Youtube Videos",
+      "path": "Youtube Videos.md"
+    },
+    {
+      "basename": "Videos",
+      "path": "Videos.base"
+    },
+    {
       "basename": "Looped LLMs",
       "path": "Notes/Looped LLMs.md"
     },
@@ -39,10 +47,6 @@
     {
       "basename": "Attention",
       "path": "Notes/Attention.md"
-    },
-    {
-      "basename": "Videos",
-      "path": "Videos.base"
     },
     {
       "basename": "Paper",
