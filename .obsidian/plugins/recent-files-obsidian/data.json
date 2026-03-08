@@ -1,0 +1,56 @@
+{
+  "recentFiles": [
+    {
+      "basename": "ml",
+      "path": "tags/ml.md"
+    },
+    {
+      "basename": "Looped LLMs",
+      "path": "Notes/Looped LLMs.md"
+    },
+    {
+      "basename": "index",
+      "path": "Notes/index.md"
+    },
+    {
+      "basename": "Discovering What and Where Visual Pathways",
+      "path": "Notes/Discovering What and Where Visual Pathways.md"
+    },
+    {
+      "basename": "DINO",
+      "path": "Notes/DINO.md"
+    },
+    {
+      "basename": "Climbing",
+      "path": "Notes/Climbing.md"
+    },
+    {
+      "basename": "Attention",
+      "path": "Notes/Attention.md"
+    },
+    {
+      "basename": "Videos",
+      "path": "Videos.base"
+    },
+    {
+      "basename": "Videos",
+      "path": "Templates/Videos.md"
+    },
+    {
+      "basename": "index",
+      "path": "index.md"
+    },
+    {
+      "basename": "Paper",
+      "path": "Templates/Paper.md"
+    },
+    {
+      "basename": "Multihead Attention",
+      "path": "Notes/Multihead Attention.md"
+    }
+  ],
+  "omittedPaths": [],
+  "omittedTags": [],
+  "updateOn": "file-open",
+  "omitBookmarks": false
+}
