@@ -1,16 +1,52 @@
 {
   "recentFiles": [
     {
+      "basename": "Multihead Latent Attention",
+      "path": "Notes/Multihead Latent Attention.md"
+    },
+    {
+      "basename": "Multihead Attention",
+      "path": "Notes/Multihead Attention.md"
+    },
+    {
+      "basename": "DINO",
+      "path": "Notes/DINO.md"
+    },
+    {
+      "basename": "ViT",
+      "path": "Notes/ViT.md"
+    },
+    {
+      "basename": "Video Games",
+      "path": "Notes/Video Games.md"
+    },
+    {
+      "basename": "Looped LLMs",
+      "path": "Notes/Looped LLMs.md"
+    },
+    {
+      "basename": "KV Caching",
+      "path": "Notes/KV Caching.md"
+    },
+    {
+      "basename": "Grouped-query Attention",
+      "path": "Notes/Grouped-query Attention.md"
+    },
+    {
+      "basename": "Attention",
+      "path": "Notes/Attention.md"
+    },
+    {
+      "basename": "Multi-query Attention",
+      "path": "Notes/Multi-query Attention.md"
+    },
+    {
       "basename": "Youtube Videos",
       "path": "Youtube Videos.md"
     },
     {
       "basename": "Videos",
       "path": "Videos.base"
-    },
-    {
-      "basename": "Looped LLMs",
-      "path": "Notes/Looped LLMs.md"
     },
     {
       "basename": "Videos",
@@ -37,24 +73,12 @@
       "path": "Notes/index.md"
     },
     {
-      "basename": "DINO",
-      "path": "Notes/DINO.md"
-    },
-    {
       "basename": "Climbing",
       "path": "Notes/Climbing.md"
     },
     {
-      "basename": "Attention",
-      "path": "Notes/Attention.md"
-    },
-    {
       "basename": "Paper",
       "path": "Templates/Paper.md"
-    },
-    {
-      "basename": "Multihead Attention",
-      "path": "Notes/Multihead Attention.md"
     }
   ],
   "omittedPaths": [],
