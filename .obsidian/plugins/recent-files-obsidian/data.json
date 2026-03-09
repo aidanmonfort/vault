@@ -9,6 +9,58 @@
       "path": "Notes/Multihead Attention.md"
     },
     {
+      "basename": "Attention",
+      "path": "Notes/Attention.md"
+    },
+    {
+      "basename": "Videos",
+      "path": "Videos.base"
+    },
+    {
+      "basename": "Looped LLMs",
+      "path": "Notes/Looped LLMs.md"
+    },
+    {
+      "basename": "DC3 Algorithm",
+      "path": "Notes/DC3 Algorithm.md"
+    },
+    {
+      "basename": "algorithms",
+      "path": "tags/algorithms.md"
+    },
+    {
+      "basename": "architecture",
+      "path": "tags/ml/architecture.md"
+    },
+    {
+      "basename": "K-Means",
+      "path": "Notes/K-Means.md"
+    },
+    {
+      "basename": "Grouped-query Attention",
+      "path": "Notes/Grouped-query Attention.md"
+    },
+    {
+      "basename": "KV Caching",
+      "path": "Notes/KV Caching.md"
+    },
+    {
+      "basename": "ml",
+      "path": "tags/ml.md"
+    },
+    {
+      "basename": "index",
+      "path": "index.md"
+    },
+    {
+      "basename": "Purpose of this site",
+      "path": "Purpose of this site.md"
+    },
+    {
+      "basename": "Youtube Videos",
+      "path": "Youtube Videos.md"
+    },
+    {
       "basename": "DINO",
       "path": "Notes/DINO.md"
     },
@@ -21,32 +73,8 @@
       "path": "Notes/Video Games.md"
     },
     {
-      "basename": "Looped LLMs",
-      "path": "Notes/Looped LLMs.md"
-    },
-    {
-      "basename": "KV Caching",
-      "path": "Notes/KV Caching.md"
-    },
-    {
-      "basename": "Grouped-query Attention",
-      "path": "Notes/Grouped-query Attention.md"
-    },
-    {
-      "basename": "Attention",
-      "path": "Notes/Attention.md"
-    },
-    {
       "basename": "Multi-query Attention",
       "path": "Notes/Multi-query Attention.md"
-    },
-    {
-      "basename": "Youtube Videos",
-      "path": "Youtube Videos.md"
-    },
-    {
-      "basename": "Videos",
-      "path": "Videos.base"
     },
     {
       "basename": "Videos",
@@ -55,18 +83,6 @@
     {
       "basename": "Discovering What and Where Visual Pathways",
       "path": "Notes/Discovering What and Where Visual Pathways.md"
-    },
-    {
-      "basename": "index",
-      "path": "index.md"
-    },
-    {
-      "basename": "ml",
-      "path": "tags/ml.md"
-    },
-    {
-      "basename": "Purpose of this site",
-      "path": "Purpose of this site.md"
     },
     {
       "basename": "index",

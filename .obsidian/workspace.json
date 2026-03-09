@@ -11,10 +11,28 @@
             "id": "bb230ba306d81d86",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "type": "markdown",
+              "state": {
+                "file": "Notes/Multihead Latent Attention.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Multihead Latent Attention"
+            }
+          },
+          {
+            "id": "a1d6e8420e6815a8",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Notes/Attention.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Attention"
             }
           }
         ]
@@ -49,7 +67,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "tag:algorithms",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -100,6 +118,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Notes/Multihead Latent Attention.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -109,7 +128,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks"
+              "title": "Backlinks for Multihead Latent Attention"
             }
           },
           {
@@ -215,7 +234,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 498.5
+    "width": 236.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -233,24 +252,36 @@
   },
   "active": "bb230ba306d81d86",
   "lastOpenFiles": [
-    "Notes/Multihead Latent Attention.md",
     "Notes/Multihead Attention.md",
+    "Notes/Multihead Latent Attention.md",
+    "Notes/Attention.md",
+    "Videos.base",
+    "imgs/resized/4995f977c0377e12f204c1037a8fd0bc_86cf658e.webp",
+    "imgs/youtube/0VLAoVGf_74.webp",
+    "Notes/Looped LLMs.md",
+    "Notes/DC3 Algorithm.md",
+    "imgs/resized/485c0cc25b4b8b9104c8f9dacfc6cb00_86cf658e.webp",
+    "imgs/youtube/8CN6kbjKn6c.webp",
+    "tags/algorithms.md",
+    "tags/ml/architecture.md",
+    "Notes/K-Means.md",
+    "Notes/Grouped-query Attention.md",
+    "tags/ml",
+    "imgs/Pasted image 20260309120829.png",
+    "Notes/KV Caching.md",
+    "tags/ml.md",
+    "index.md",
+    "Purpose of this site.md",
+    "imgs/resized/db2a898dab9168e4b06bba2983c634b8_86cf658e.webp",
+    "imgs/K-means_convergence.gif",
+    "Youtube Videos.md",
     "Notes/DINO.md",
     "Notes/ViT.md",
     "Notes/Video Games.md",
-    "Notes/Looped LLMs.md",
-    "Notes/KV Caching.md",
-    "Notes/Grouped-query Attention.md",
-    "Notes/Attention.md",
     "Notes/Untitled.base",
     "Notes/Multi-query Attention.md",
-    "Youtube Videos.md",
-    "Videos.base",
     "Templates/Videos.md",
     "Notes/Discovering What and Where Visual Pathways.md",
-    "index.md",
-    "tags/ml.md",
-    "Purpose of this site.md",
     "Notes/index.md",
     "Notes/Climbing.md",
     "imgs/resized/ba3589add57b55c453909d4c973be858_86cf658e.webp",
@@ -260,14 +291,10 @@
     "Templates/Paper.md",
     "tags",
     "imgs/Screenshot 2026-03-06 at 1.03.22 PM.png",
-    "imgs/Pasted image 20260306113644.png",
     "Climbing.md",
     "Templates/Basic.md",
-    "ucr.edu.md",
     "Notes",
     "imgs",
-    "imgs/Screenshot 2026-03-03 at 1.43.10 PM.png",
-    "Templates",
-    "Workflow.md"
+    "Templates"
   ]
 }

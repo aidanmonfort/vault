@@ -1,6 +1,7 @@
 ---
 tags:
   - "#video"
+  - ml/architecture
 created:
 updated:
 featured_image: imgs/youtube/pDsTcrRVNc0.webp
@@ -9,4 +10,21 @@ thumbnail: imgs/resized/ba3589add57b55c453909d4c973be858_86cf658e.webp
 ---
 ![Link](https://youtu.be/pDsTcrRVNc0?si=Be3MxP-CLqrksMs4)
 
+[Link](https://ouro-llm.github.io/)
+
 ---
+### Core ideas:
+- Is reasoning through extended context enough?
+- Is reasoning just based on vocabulary enough?
+
+In modern [[LLM|LLMs]], reasoning is accomplished primarily through chain of thought, context scaling, or some type of inference scaling. 
+
+![[Pasted image 20260309120829.png]]
+
+The main idea is using this looped structure architecture with some type of gate to determine whether the output is "refined" enough. They set limits on the number of loops, which makes sense. 
+
+Something not really mentioned in the video the tokens/s. I would imagine that it suffers quite a bit from this looped structure. Additionally, [[KV Caching]] must be a similar challenge since multiple loops means multiple caches. 
+
+It seems like the architecture should in theory be pretty similar to an architecture with residual connections between to the output, although empirically they do outperform other larger models. 
+
+It also seems to have a lot of diffusion ideas involved, with the difference being the early stopping mechanism. 

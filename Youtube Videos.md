@@ -7,6 +7,6 @@ I really enjoy watching Youtube videos. I realized that a lot of the stuff I wat
 
 Hopefully I can keep this updated, because I watch some pretty cool videos I think.
 
----
-![[Videos.base]]
+**Note**: Waiting on Quartz 5 for that nice new bases plugin, so ignore this page until then lol. 
+
 
