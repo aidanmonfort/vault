@@ -27,4 +27,4 @@ Something not really mentioned in the video the tokens/s. I would imagine that i
 
 It seems like the architecture should in theory be pretty similar to an architecture with residual connections between to the output, although empirically they do outperform other larger models. 
 
-It also seems to have a lot of diffusion ideas involved, with the difference being the early stopping mechanism. 
+It also seems to have a lot of [[Diffusion]] ideas involved, with the difference being the early stopping mechanism. 

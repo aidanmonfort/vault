@@ -1,8 +1,40 @@
 {
   "recentFiles": [
     {
-      "basename": "Multihead Latent Attention",
-      "path": "Notes/Multihead Latent Attention.md"
+      "basename": "Watch+Read List",
+      "path": "Boards/Watch+Read List.md"
+    },
+    {
+      "basename": "Diffusion",
+      "path": "Notes/Diffusion.md"
+    },
+    {
+      "basename": "Expectation-Maximization",
+      "path": "Notes/Expectation-Maximization.md"
+    },
+    {
+      "basename": "Greedy Algorithms",
+      "path": "Notes/Greedy Algorithms.md"
+    },
+    {
+      "basename": "DC3 Algorithm",
+      "path": "Notes/DC3 Algorithm.md"
+    },
+    {
+      "basename": "Computer Vision",
+      "path": "Notes/Computer Vision.md"
+    },
+    {
+      "basename": "Youtube Videos",
+      "path": "Youtube Videos.md"
+    },
+    {
+      "basename": "Videos",
+      "path": "Videos.base"
+    },
+    {
+      "basename": "Purpose of this site",
+      "path": "Purpose of this site.md"
     },
     {
       "basename": "Multihead Attention",
@@ -13,36 +45,52 @@
       "path": "Notes/Attention.md"
     },
     {
-      "basename": "Videos",
-      "path": "Videos.base"
-    },
-    {
       "basename": "Looped LLMs",
       "path": "Notes/Looped LLMs.md"
     },
     {
-      "basename": "DC3 Algorithm",
-      "path": "Notes/DC3 Algorithm.md"
+      "basename": "DINO",
+      "path": "Notes/DINO.md"
+    },
+    {
+      "basename": "Discovering What and Where Visual Pathways",
+      "path": "Notes/Discovering What and Where Visual Pathways.md"
     },
     {
       "basename": "algorithms",
       "path": "tags/algorithms.md"
     },
     {
-      "basename": "architecture",
-      "path": "tags/ml/architecture.md"
-    },
-    {
       "basename": "K-Means",
       "path": "Notes/K-Means.md"
     },
     {
-      "basename": "Grouped-query Attention",
-      "path": "Notes/Grouped-query Attention.md"
+      "basename": "Video Games",
+      "path": "Notes/Video Games.md"
+    },
+    {
+      "basename": "Multihead Latent Attention",
+      "path": "Notes/Multihead Latent Attention.md"
+    },
+    {
+      "basename": "Multi-query Attention",
+      "path": "Notes/Multi-query Attention.md"
+    },
+    {
+      "basename": "ViT",
+      "path": "Notes/ViT.md"
     },
     {
       "basename": "KV Caching",
       "path": "Notes/KV Caching.md"
+    },
+    {
+      "basename": "architecture",
+      "path": "tags/ml/architecture.md"
+    },
+    {
+      "basename": "Grouped-query Attention",
+      "path": "Notes/Grouped-query Attention.md"
     },
     {
       "basename": "ml",
@@ -53,36 +101,8 @@
       "path": "index.md"
     },
     {
-      "basename": "Purpose of this site",
-      "path": "Purpose of this site.md"
-    },
-    {
-      "basename": "Youtube Videos",
-      "path": "Youtube Videos.md"
-    },
-    {
-      "basename": "DINO",
-      "path": "Notes/DINO.md"
-    },
-    {
-      "basename": "ViT",
-      "path": "Notes/ViT.md"
-    },
-    {
-      "basename": "Video Games",
-      "path": "Notes/Video Games.md"
-    },
-    {
-      "basename": "Multi-query Attention",
-      "path": "Notes/Multi-query Attention.md"
-    },
-    {
       "basename": "Videos",
       "path": "Templates/Videos.md"
-    },
-    {
-      "basename": "Discovering What and Where Visual Pathways",
-      "path": "Notes/Discovering What and Where Visual Pathways.md"
     },
     {
       "basename": "index",

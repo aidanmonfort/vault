@@ -11,14 +11,20 @@
             "id": "bb230ba306d81d86",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "kanban",
               "state": {
-                "file": "Notes/Multihead Latent Attention.md",
-                "mode": "source",
-                "source": false
+                "file": "Boards/Watch+Read List.md",
+                "kanbanViewState": {
+                  "kanban-plugin": "board",
+                  "list-collapse": [
+                    false,
+                    false,
+                    false
+                  ]
+                }
               },
-              "icon": "lucide-file",
-              "title": "Multihead Latent Attention"
+              "icon": "lucide-trello",
+              "title": "Watch+Read List"
             }
           },
           {
@@ -67,7 +73,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:algorithms",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -102,7 +108,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 200
   },
   "right": {
     "id": "8e74f7bed8a33638",
@@ -118,7 +124,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notes/Multihead Latent Attention.md",
+                "file": "Boards/Watch+Read List.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -128,7 +134,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Multihead Latent Attention"
+              "title": "Backlinks for Watch+Read List"
             }
           },
           {
@@ -234,7 +240,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 236.5
+    "width": 200
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -252,47 +258,48 @@
   },
   "active": "bb230ba306d81d86",
   "lastOpenFiles": [
-    "Notes/Multihead Attention.md",
-    "Notes/Multihead Latent Attention.md",
-    "Notes/Attention.md",
+    "Notes/Diffusion.md",
+    "Boards",
+    "Boards/Watch+Read List.md",
+    "Notes/Expectation-Maximization.md",
+    "Notes/Greedy Algorithms.md",
+    "imgs/resized/d93b2da479431da7d3cd007e06aaf091_86cf658e.webp",
+    "imgs/Pasted image 20260310013938.png",
+    "Notes/DC3 Algorithm.md",
+    "Notes/Computer Vision.md",
+    "Youtube Videos.md",
     "Videos.base",
+    "Purpose of this site.md",
+    "Notes/Multihead Attention.md",
+    "Notes/Attention.md",
+    "Notes/Looped LLMs.md",
+    "Notes/DINO.md",
+    "Notes/Discovering What and Where Visual Pathways.md",
+    "tags/algorithms.md",
+    "Notes/K-Means.md",
+    "Notes/Video Games.md",
+    "Notes/Multihead Latent Attention.md",
+    "Notes/Multi-query Attention.md",
+    "Notes/ViT.md",
+    "Notes/KV Caching.md",
     "imgs/resized/4995f977c0377e12f204c1037a8fd0bc_86cf658e.webp",
     "imgs/youtube/0VLAoVGf_74.webp",
-    "Notes/Looped LLMs.md",
-    "Notes/DC3 Algorithm.md",
     "imgs/resized/485c0cc25b4b8b9104c8f9dacfc6cb00_86cf658e.webp",
     "imgs/youtube/8CN6kbjKn6c.webp",
-    "tags/algorithms.md",
     "tags/ml/architecture.md",
-    "Notes/K-Means.md",
     "Notes/Grouped-query Attention.md",
     "tags/ml",
     "imgs/Pasted image 20260309120829.png",
-    "Notes/KV Caching.md",
     "tags/ml.md",
     "index.md",
-    "Purpose of this site.md",
     "imgs/resized/db2a898dab9168e4b06bba2983c634b8_86cf658e.webp",
     "imgs/K-means_convergence.gif",
-    "Youtube Videos.md",
-    "Notes/DINO.md",
-    "Notes/ViT.md",
-    "Notes/Video Games.md",
     "Notes/Untitled.base",
-    "Notes/Multi-query Attention.md",
     "Templates/Videos.md",
-    "Notes/Discovering What and Where Visual Pathways.md",
-    "Notes/index.md",
-    "Notes/Climbing.md",
     "imgs/resized/ba3589add57b55c453909d4c973be858_86cf658e.webp",
     "imgs/resized",
-    "imgs/youtube/pDsTcrRVNc0.webp",
     "imgs/youtube",
-    "Templates/Paper.md",
     "tags",
-    "imgs/Screenshot 2026-03-06 at 1.03.22 PM.png",
-    "Climbing.md",
-    "Templates/Basic.md",
     "Notes",
     "imgs",
     "Templates"
