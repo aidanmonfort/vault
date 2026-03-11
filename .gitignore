@@ -1,2 +1,10 @@
-workspace.json
-graph.json
+# Obsidian-specific files
+.obsidian/
+.trash/
+
+# macOS system files
+.DS_Store
+
+# Quartz/Build artifacts (if applicable)
+node_modules/
+public/
