@@ -11,20 +11,13 @@
             "id": "bb230ba306d81d86",
             "type": "leaf",
             "state": {
-              "type": "kanban",
+              "type": "bases",
               "state": {
-                "file": "Boards/Watch+Read List.md",
-                "kanbanViewState": {
-                  "kanban-plugin": "board",
-                  "list-collapse": [
-                    false,
-                    false,
-                    false
-                  ]
-                }
+                "file": "Videos.base",
+                "viewName": "Cards"
               },
-              "icon": "lucide-trello",
-              "title": "Watch+Read List"
+              "icon": "lucide-layout-grid",
+              "title": "Videos"
             }
           },
           {
@@ -124,7 +117,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Boards/Watch+Read List.md",
+                "file": "Videos.base",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -134,7 +127,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Watch+Read List"
+              "title": "Backlinks for Videos"
             }
           },
           {
@@ -253,50 +246,53 @@
       "bases:Create new base": false,
       "obsidian-kanban:Create new board": false,
       "juggl:Juggl global graph": false,
-      "obsidian-git:Open Git source control": false
+      "obsidian-git:Open Git source control": false,
+      "random-note:Open random note": false,
+      "templater-obsidian:Templater": false
     }
   },
-  "active": "bb230ba306d81d86",
+  "active": "52b3af195238e95a",
   "lastOpenFiles": [
-    "Notes/Diffusion.md",
-    "Boards",
-    "Boards/Watch+Read List.md",
     "Notes/Expectation-Maximization.md",
-    "Notes/Greedy Algorithms.md",
-    "imgs/resized/d93b2da479431da7d3cd007e06aaf091_86cf658e.webp",
-    "imgs/Pasted image 20260310013938.png",
-    "Notes/DC3 Algorithm.md",
-    "Notes/Computer Vision.md",
+    "Templates/Basic.md",
+    "Notes/Stochastic Gradient Descent.md",
+    "Notes/Multi-query Attention.md",
+    "Notes/Multihead Latent Attention.md",
+    "Templates/Videos.md",
+    "Templates/Paper.md",
     "Youtube Videos.md",
     "Videos.base",
     "Purpose of this site.md",
-    "Notes/Multihead Attention.md",
-    "Notes/Attention.md",
-    "Notes/Looped LLMs.md",
-    "Notes/DINO.md",
-    "Notes/Discovering What and Where Visual Pathways.md",
-    "tags/algorithms.md",
-    "Notes/K-Means.md",
-    "Notes/Video Games.md",
-    "Notes/Multihead Latent Attention.md",
-    "Notes/Multi-query Attention.md",
     "Notes/ViT.md",
+    "Notes/Video Games.md",
+    "Notes/Multihead Attention.md",
+    "Notes/Looped LLMs.md",
     "Notes/KV Caching.md",
+    "Notes/K-Means.md",
+    "Notes/index.md",
+    "Notes/Grouped-query Attention.md",
+    "Notes/Greedy Algorithms.md",
+    "Notes/Discovering What and Where Visual Pathways.md",
+    "Notes/DINO.md",
+    "Notes/Diffusion.md",
+    "Notes/DC3 Algorithm.md",
+    "Notes/Computer Vision.md",
+    "Notes/Climbing.md",
+    "Notes/Attention.md",
+    "imgs/resized/2e01b45203712eca7818fddfa4df994d_86cf658e.webp",
+    "imgs/resized/423355b808aa5bf2d63d117f8e4a407f_86cf658e.webp",
+    "imgs/resized/5d794e169e7ef758bb7f96282204ec9c_86cf658e.webp",
+    "Boards/Watch+Read List.md",
+    "Boards",
+    "imgs/resized/d93b2da479431da7d3cd007e06aaf091_86cf658e.webp",
+    "imgs/Pasted image 20260310013938.png",
     "imgs/resized/4995f977c0377e12f204c1037a8fd0bc_86cf658e.webp",
     "imgs/youtube/0VLAoVGf_74.webp",
     "imgs/resized/485c0cc25b4b8b9104c8f9dacfc6cb00_86cf658e.webp",
     "imgs/youtube/8CN6kbjKn6c.webp",
-    "tags/ml/architecture.md",
-    "Notes/Grouped-query Attention.md",
     "tags/ml",
     "imgs/Pasted image 20260309120829.png",
-    "tags/ml.md",
-    "index.md",
-    "imgs/resized/db2a898dab9168e4b06bba2983c634b8_86cf658e.webp",
-    "imgs/K-means_convergence.gif",
     "Notes/Untitled.base",
-    "Templates/Videos.md",
-    "imgs/resized/ba3589add57b55c453909d4c973be858_86cf658e.webp",
     "imgs/resized",
     "imgs/youtube",
     "tags",

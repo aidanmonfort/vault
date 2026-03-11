@@ -2,8 +2,8 @@
 tags:
   - "#video"
   - ml/architecture
-created:
-updated:
+created: 2026-03-08T13:15
+updated: 2026-03-09T17:59
 featured_image: imgs/youtube/pDsTcrRVNc0.webp
 thumbnail: imgs/resized/ba3589add57b55c453909d4c973be858_86cf658e.webp
 ---

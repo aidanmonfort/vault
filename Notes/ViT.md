@@ -1,8 +1,10 @@
 ---
-created: 2025-03-06T09:36
-updated: 2025-03-13T09:07
+created: 2026-03-06T13:01
+updated: 2026-03-06T13:22
 tags:
   - ml/papers
+featured_image: imgs/Screenshot 2026-03-06 at 1.03.22 PM.png
+thumbnail: imgs/resized/2e01b45203712eca7818fddfa4df994d_86cf658e.webp
 ---
 ---
 [Link](https://arxiv.org/pdf/2010.11929)

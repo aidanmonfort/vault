@@ -1,6 +1,7 @@
 ---
-created: 2025-03-06T09:36
-updated: 2025-03-13T09:07
+created: <% tp.file.creation_date("YYYY-MM-DDTHH:mm") %>
+updated: <% tp.file.last_modified_date() %>
+tags:
 ---
 ---
 [Link]()

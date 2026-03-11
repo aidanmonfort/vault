@@ -1,6 +1,6 @@
 ---
-created: 2025-03-06T09:36
-updated: 2025-03-13T09:07
+created: 2026-03-08T12:50
+updated: 2026-03-08T21:08
 tags:
   - ml/architecture/components
 ---

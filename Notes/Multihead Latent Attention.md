@@ -1,6 +1,6 @@
 ---
-created: 2025-03-06T09:36
-updated: 2025-03-13T09:07
+created: 2026-03-08T21:22
+updated: 2026-03-09T16:03
 tags:
   - ml/architecture/components
   - video

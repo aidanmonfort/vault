@@ -1,8 +1,10 @@
 ---
-created: 2025-03-06T09:36
-updated: 2025-03-13T09:07
+created: 2026-02-27T11:10
+updated: 2026-03-10T14:54
 tags:
   - "#ml/papers"
+featured_image: imgs/Screenshot 2026-03-03 at 1.43.10 PM.png
+thumbnail: imgs/resized/5d794e169e7ef758bb7f96282204ec9c_86cf658e.webp
 ---
 ---
 [Link](https://openaccess.thecvf.com/content/CVPR2024/papers/Zhang_Deciphering_What_and_Where_Visual_Pathways_from_Spectral_Clustering_of_CVPR_2024_paper.pdf)
