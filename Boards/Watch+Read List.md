@@ -8,19 +8,20 @@ kanban-plugin: board
 
 - [ ] Reinforcement Learning - Rich Sutton
 - [ ] Mixture of Recurions
-- [ ] RL - Deepmind Videos
 - [ ] Convex Optimization
 - [ ] Quant Finance??
 
 
 ## Note Made
 
-- [ ] [[Expectation-Maximization]]
-- [ ] [[Diffusion]]
+- [ ] RL - Deepmind Videos
+	[[RL Introduction]]
 
 
 ## Note Done
 
+- [ ] [[Diffusion]]
+- [ ] [[Expectation-Maximization]]
 
 
 
