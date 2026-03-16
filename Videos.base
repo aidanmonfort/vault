@@ -3,7 +3,7 @@ views:
     name: Cards
     filters:
       and:
-        - file.tags.contains("video")
+        - file.hasTag("video")
         - file.folder != "Templates"
     image: note.featured_image
     imageFit: contain
