@@ -1,8 +1,8 @@
 ---
 tags:
-  - "#video"
   - ml
   - "#rl"
+  - video
 created: 2026-03-13 13:25
 updated: 2026-03-13 13:25
 featured_image: imgs/youtube/TCCjZe0y4Qc.webp
