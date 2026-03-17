@@ -14,17 +14,23 @@ kanban-plugin: board
 
 ## Note Made
 
+- [ ] Study For Topology - Brain Dump
 - [ ] RL - Deepmind Videos
 	[[RL Introduction]]
+	[[RL Exploration and Exploitation]]
 
 
 ## Note Done
 
+**Complete**
+
+
+***
+
+## Archive
+
 - [ ] [[Diffusion]]
 - [ ] [[Expectation-Maximization]]
-
-
-
 
 %% kanban:settings
 ```

@@ -5,8 +5,8 @@ tags:
   - video
 created: 2026-03-13 13:25
 updated: 2026-03-13 13:25
-featured_image: imgs/youtube/TCCjZe0y4Qc.webp
-thumbnail: imgs/resized/3cfa34daae7f952a01e1b5d02e710b7c_86cf658e.webp
+featured_image: imgs/thumbnails/youtube/TCCjZe0y4Qc.webp
+thumbnail: imgs/thumbnails/resized/0f193ea3d5c875fbff7d4f0b63c96022_86cf658e.webp
 ---
 ---
 ![Video](https://youtu.be/TCCjZe0y4Qc?si=XLtGElqH1B9JqbFX)
@@ -55,6 +55,16 @@ Given state $s$, we want to optimize $v(s) = \mathbb{E}[G_{t} | S_{t} = s]$.
 There is a nice recursive definition for value: $v(s) = \mathbb{E}[R_{t+1} + v(S_{t+1}) | S_{t} = s]$. 
 We use actions to maximize this value. Rewards can be delayed from the time of an action.  
 
+Actual value function defined as:
+$$
+\begin{align}
+  v_{\pi}(s) &= \mathbb{E}[G_{t} | S_{t} = s, \pi] \\
+  v_{\pi}(s) &= \mathbb{E}[R_{t+1} +  \gamma R_{t+2} + \gamma^{2} R_{t+3}| S_{t} = s, \pi] \\
+\end{align}
+$$
+
+Where $\gamma \in [0,1]$ and helps distinguish between near-term and long-term rewards. 
+
 ### Actions
 We can also condition the value on the actions $a$ that the agent takes.
 $q(s, a) = \mathbb{E}[G_{t} | S_{t} = s, A_{t} = a]$
@@ -65,7 +75,26 @@ Both the agent and environment may have their own state. Environment state may o
 ### History
 This is just the set of observation, actions, and rewards for the agent. Used to construct the agent state. 
 
+
+
 ---
 The observability of the environment is very important since they can change the dynamics of the probability of transitioning between different states. If it Markovian, then only our current state matters. Otherwise, our full history may be important for the transitions between states.  
 
 Updated Agent State: $S_{t+1} = f(S_{t}, A_{t}, R_{t+1}, O_{t+1})$. Just means it is a function of what our state, action, and the results and observations. 
+
+---
+### Bellman Equation
+
+Recursive definition of return leads to recursive definition of value. This is known as a Bellman Equation.
+$$
+  v_{\pi}(s) = \mathbb{E}[R_{t+1} +  \gamma v_{\pi}(S_{t+1})| S_{t} = s, A_{t} \sim \pi(s)]
+$$
+
+We can find the maximum action with:
+$$
+v_{*}(s) = \underset{ a }{ \max }\mathbb{E}[R_{t+1} +  \gamma v_{*}(S_{t+1})| S_{t} = s, A_{t}  = a]
+$$
+No dependence on policy. 
+
+---
+There is a lot of equations in these notes. A key choice in an RL environment is learning these through models or through exact equations. This depends heavily on environment.  

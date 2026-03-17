@@ -4,8 +4,8 @@ tags:
   - video
 created: 2026-03-08T13:15
 updated: 2026-03-09T17:59
-featured_image: imgs/youtube/pDsTcrRVNc0.webp
-thumbnail: imgs/resized/ba3589add57b55c453909d4c973be858_86cf658e.webp
+featured_image: imgs/thumbnails/youtube/pDsTcrRVNc0.webp
+thumbnail: imgs/thumbnails/resized/629e058ea299d917545aa1a955740037_86cf658e.webp
 ---
 ---
 ![Link](https://youtu.be/pDsTcrRVNc0?si=Be3MxP-CLqrksMs4)

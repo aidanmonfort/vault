@@ -1,4 +1,4 @@
-Hello, my name is Aidan. I am currently a third year at [UCR](https://www.ucr.edu/) and am studying [[Computer Science]] and [[Mathematics]]. There is a **lot** of things that interest me in both of these fields and beyond(see [[Notes/index|Notes]]), but here are some (broad)topics I tend to find myself going back to:
+Hello, my name is Aidan. I am currently a third year at [UCR](https://www.ucr.edu/) and am studying Computer Science and Pure Mathematics. There is a **lot** of things that interest me in both of these fields and beyond(see [[Notes/index|Notes]]), but here are some (broad)topics I tend to find myself going back to:
 
 - [[ml|Machine Learning]]
 - [[algorithms|Algorithms]]

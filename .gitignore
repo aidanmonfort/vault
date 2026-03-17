@@ -8,3 +8,5 @@
 # Quartz/Build artifacts (if applicable)
 node_modules/
 public/
+imgs/thumbnails
+imgs/resized
