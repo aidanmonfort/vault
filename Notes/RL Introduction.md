@@ -67,7 +67,7 @@ Where $\gamma \in [0,1]$ and helps distinguish between near-term and long-term r
 
 ### Actions
 We can also condition the value on the actions $a$ that the agent takes.
-$q(s, a) = \mathbb{E}[G_{t} | S_{t} = s, A_{t} = a]$
+$q(s, a) = \mathbb{E}[R_{t} | S_{t} = s, A_{t} = a]$
 
 ### State
 Both the agent and environment may have their own state. Environment state may or may not be visible to agent. Agent state dictates predictions and policy. 
