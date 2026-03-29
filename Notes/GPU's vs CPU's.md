@@ -4,8 +4,8 @@ updated: 2026-03-14 20:44
 tags:
   - "#random"
   - video
-featured_image: imgs/thumbnails/youtube/xi-wTlVUZsQ.webp
-thumbnail: imgs/thumbnails/resized/a9afb083b6a84ebee6b0567568ca8c11_86cf658e.webp
+featured_image: imgs/youtube/xi-wTlVUZsQ.webp
+thumbnail: imgs/resized/3ba830410a8c4baa70f2291c7e277945_86cf658e.webp
 ---
 ---
 

@@ -7,8 +7,9 @@ tags:
 ---
 ---
 
-This is a technique used to maximize the likelihood of parameters when some states are hidden. 
-In standard settings, if we are given a set of data with no unknown variables, and want to do something like find parameters $\mu, \Sigma$ for a gaussian such that we maximize the likelihood of these parameters, then we can do some pretty simple derivatives, and solve by setting to 0.
+This is a technique used to maximize the likelihood of parameters when our data distribution depends on some hidden latent variables. For example, sets of data where each point is sampled from some Gaussian.  
+
+In standard settings, if we are given a set of data with no unknown variables, and want to do something like find parameters $\mu, \Sigma$ for a Gaussian such that we maximize the likelihood of the data given, then we can do some pretty simple derivatives, and solve by setting to 0.
 
 ---
 ### Problem:
@@ -32,7 +33,7 @@ We can converge to a set of local parameters for each cluster and a label for ea
 ### When does this not work?
 
 ### Reliance on initialization of $\Theta$
-EM is very reliant on the initialization of the parameters. Since it converges to a local maximum, there is not a guarantee that this will give the global maximum. This can be mitigated through multiple random initializations. 
+EM is very reliant on the initialization of the parameters. Since it converges to a local maximum, there is not a guarantee that this will give the global maximum. This can be mitigated through multiple random initialization. 
 
 ### Intractable expectation step: 
 If the hidden/latent variable is complex, computing the posterior can become intractable. In something like a neural network, where $X$ can be a highly non-linear function of $Z$, calculating the posterior is intractable. This is the motivation for [[VAE]] and a lot of [[Variational Inference]].

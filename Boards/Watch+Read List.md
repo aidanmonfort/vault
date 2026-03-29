@@ -29,7 +29,7 @@ kanban-plugin: board
 
 ## Archive
 
-- [ ] [[Diffusion]]
+- [ ] [[Diffusion(DDPM)]]
 - [ ] [[Expectation-Maximization]]
 
 %% kanban:settings
